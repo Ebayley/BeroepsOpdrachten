@@ -1,7 +1,6 @@
 x = 3
 y = 2
 
-#while x > y:	
 while True:
 	print("\nHello You!, ik ben Elona")
 	name = input("\nWie ben jij? \n")
@@ -52,14 +51,6 @@ while True:
 			print('\n(Let op! het moeten hoofdletters zijn.)')
 			derdeVraag()	
 
-	#def startAgain():
-	#	a = input('Wil je dit programma nog een keer doen? type Y/N\n')
-	#	if a == 'Y':
-	#		print('Doei!')
-	#	elif a == 'N':
-	#		break
-	#	else:
-	#		print('Typ Y of N')  	
 
 
 
@@ -81,42 +72,4 @@ while True:
 		print('okay')
 	else:
 		print('Typ Y of N') 
-
-	#startAgain()
-	#break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
-    
-    	
-#	while x > y:
-#	    a = input('Wil je dit programma nog een keer doen? type Y/N\n')  	
-#	    if a == 'N':
-#		    print('Doei!!!')
-#		    x = 1
-#	    elif a == 'Y':
-#		    print('\n')
-#		    break
-#	    else:
-#		    print('Type Y or N')
-#		    break
-		
