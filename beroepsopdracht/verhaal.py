@@ -6,7 +6,7 @@ while x == True:
     import os
     os.system('cls')
 
-    #Het is me helaas niet gelukt om op tijd alles af te hebben.
+    #Het is me helaas niet gelukt om op tijd alles af te hebben. ik ga er nog verder aan werken. ook aan de flowchart en de microbit opdrachten
 
 
     
